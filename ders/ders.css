@@ -1,0 +1,58 @@
+div{
+    margin: 0px;
+    padding: 200px;
+    box-sizing: border-box;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 50%;
+}
+.sari{
+    border-color:rgb(239, 155, 38);
+    margin-left: -410px;
+    margin-right: -310px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 20px;
+    padding-left:14px;
+    padding-top: 120px;
+    padding-bottom: 260px;
+    padding-right: 330px;
+    height: 100px;
+}
+.qirmizi{
+    border-color: red;
+    border-width: 29px;
+}
+.aciqsari{
+    border-color: yellow;
+    margin-left: -70px;
+    margin-right: -110px;
+    border-width: 20px;
+    padding: 110px;
+    padding-left:22px;
+    padding-bottom: 260px;
+    padding-right:300px;
+    height: 1px;
+    padding-top: 200x;
+    margin-top: -200px;
+}
+.yasil{
+    color: green;
+    width: 25px;
+    height: 17px;
+    border-width: 28px;
+    padding: 120px;
+    margin-left: -210px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+    height: -20px;
+}
+.benovseyi{
+    color:blue;
+    width: 25px;
+    border-width: 20px;
+    padding: 80px;
+    margin-left: -230px;
+    margin-bottom: 120px;
+    background-color: blueviolet;
+}
